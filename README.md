@@ -55,7 +55,7 @@ Number of variables: 18
 
 Size of the dataset:  943
 
-Used Descriptive Analysis, Long Short Term Memory RRNs, Time Series Autoregression Model, Principal Component Analysis. 
+Used Descriptive Analysis, RNNs, Time Series Autoregression Model using Long Short Term Memory, Principal Component Analysis. 
 
 ## Acknowledgments
 Thank you Professor An Tran and Professor Anna Marbut for your excellent  class. 
